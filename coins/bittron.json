@@ -1,0 +1,7 @@
+{
+    "name": "Bittron",
+    "symbol": "BTN",
+    "algorithm": "scrypt",
+    "peerMagic": "f4c0b6db",
+    "peerMagicTestnet": "fdd2c8f1"
+}
